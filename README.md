@@ -3,7 +3,7 @@
 
 <div align="center">
 <img src="docs/assets/logo.svg" alt="logo" height="90" align="center">
-<h1 align="center">telegraf.js</h1>
+<h1 align="center">index.js</h1>
 
 <p>Modern Telegram Bot API framework for Node.js</p>
 
