@@ -127,5 +127,3 @@ For Further ### Refrences
 - [Dependent repositories](https://libraries.io/npm/telegraf/dependent_repositories)
 
 For additional bot examples please check the new [`docs repo`](https://github.com/feathers-studio/telegraf-docs/).
-
-```
